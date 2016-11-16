@@ -20,6 +20,12 @@ h1 {
   margin-left: auto;
   font-family: Helvetica;  
 }
+section{
+ width: 200px;
+  height: 1000px;
+  background-color: #222;
+color: black;
+}
 #logo-img {
   background: url('../images/restaurant-logo_large.png') no-repeat;
   width: 150px;
