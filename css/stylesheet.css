@@ -28,7 +28,8 @@ color: black;
 }
 .bbb {
 color: black;
-  width: 280px;
+  width: auto;
+  text-align: center;
     margin: 0 auto 15px;
 }
 
