@@ -30,14 +30,13 @@ color: black;
 color: black;
   width: auto;
   text-align: center;
-  margin: 0 auto 15px;
   border: 12px;
+  border-color: black;
   background-color: red;
   margin-top: 0px;
   margin-bottom: 0px;
   padding-top: 5px;
   padding-bottom: 5px;
-  border-color: black;
   
 }
 
