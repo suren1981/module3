@@ -26,6 +26,10 @@ section{
   background-color: #222;
 color: black;
 }
+ul.li {
+background-color: #222;
+}
+
 #logo-img {
   background: url('../images/restaurant-logo_large.png') no-repeat;
   width: 150px;
