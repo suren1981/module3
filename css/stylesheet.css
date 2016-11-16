@@ -31,8 +31,13 @@ color: black;
   width: auto;
   text-align: center;
     margin: 0 auto 15px;
-  border: 1px;
+  border: 12px black;
   background-color: red;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  
 }
 
 #logo-img {
