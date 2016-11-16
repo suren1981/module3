@@ -11,7 +11,15 @@ body {
   border-radius: 0;
   border: 0;
 }
-
+h1 {
+  margin-bottom: 100px;
+  width: 200px;
+  height: 40px;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;  
+}
 #logo-img {
   background: url('../images/restaurant-logo_large.png') no-repeat;
   width: 150px;
