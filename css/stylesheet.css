@@ -31,6 +31,8 @@ color: black;
   width: auto;
   text-align: center;
     margin: 0 auto 15px;
+  border: 1px;
+  background-color: red;
 }
 
 #logo-img {
