@@ -28,6 +28,8 @@ color: black;
 }
 .bbb {
 color: black;
+  width: 280px;
+    margin: 0 auto 15px;
 }
 
 #logo-img {
