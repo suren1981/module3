@@ -26,8 +26,8 @@ section{
   background-color: #222;
 color: black;
 }
-ul.li {
-background-color: #222;
+ul li {
+background-color: black;
 }
 
 #logo-img {
