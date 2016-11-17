@@ -247,8 +247,7 @@ h3.menu-item-title {
   color: black;
   width: auto;
   text-align: center;
-  border-style: solid;
-  border-color: #ff0000 #ff0000;
+  border: 2px solid black;
   background-color: red;
   margin-top: 0px;
   margin-bottom: 0px;
