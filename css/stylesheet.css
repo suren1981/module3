@@ -26,19 +26,7 @@ section{
   background-color: #222;
 color: black;
 }
-.bbb {
-color: black;
-  width: auto;
-  text-align: center;
-  border: 12px;
-  border-color: black;
-  background-color: red;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  
-}
+
 
 #logo-img {
   background: url('../images/restaurant-logo_large.png') no-repeat;
@@ -257,7 +245,19 @@ h3.menu-item-title {
 }
 /* END SINGLE CATEGORY PAGE */
 
-
+.bbb {
+color: black;
+  width: auto;
+  text-align: center;
+  border: 12px;
+  border-color: black;
+  background-color: red;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  
+}
 /********** Large devices only **********/
 @media (min-width: 1200px) {
   .container .jumbotron {
